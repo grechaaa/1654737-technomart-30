@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Серёжа Грек](https://up.htmlacademy.ru/htmlcss/30/user/1654737).
-* Наставник:[Влад Башилов].(https://htmlacademy.ru/profile/id167603)
+* Студент: [Серёжа Грек](https://htmlacademy.ru/profile/id1654737).
+* Наставник: [Влад Башилов] (https://htmlacademy.ru/profile/id167603).
 
 ---
 
